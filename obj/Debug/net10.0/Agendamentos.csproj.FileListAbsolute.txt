@@ -1,0 +1,14 @@
+C:\Muriel\Projetos\DOTNETPROJ\Agendamentos\bin\Debug\net10.0\Agendamentos.exe
+C:\Muriel\Projetos\DOTNETPROJ\Agendamentos\bin\Debug\net10.0\Agendamentos.deps.json
+C:\Muriel\Projetos\DOTNETPROJ\Agendamentos\bin\Debug\net10.0\Agendamentos.runtimeconfig.json
+C:\Muriel\Projetos\DOTNETPROJ\Agendamentos\bin\Debug\net10.0\Agendamentos.dll
+C:\Muriel\Projetos\DOTNETPROJ\Agendamentos\bin\Debug\net10.0\Agendamentos.pdb
+C:\Muriel\Projetos\DOTNETPROJ\Agendamentos\obj\Debug\net10.0\Agendamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Muriel\Projetos\DOTNETPROJ\Agendamentos\obj\Debug\net10.0\Agendamentos.AssemblyInfoInputs.cache
+C:\Muriel\Projetos\DOTNETPROJ\Agendamentos\obj\Debug\net10.0\Agendamentos.AssemblyInfo.cs
+C:\Muriel\Projetos\DOTNETPROJ\Agendamentos\obj\Debug\net10.0\Agendamentos.csproj.CoreCompileInputs.cache
+C:\Muriel\Projetos\DOTNETPROJ\Agendamentos\obj\Debug\net10.0\Agendamentos.dll
+C:\Muriel\Projetos\DOTNETPROJ\Agendamentos\obj\Debug\net10.0\refint\Agendamentos.dll
+C:\Muriel\Projetos\DOTNETPROJ\Agendamentos\obj\Debug\net10.0\Agendamentos.pdb
+C:\Muriel\Projetos\DOTNETPROJ\Agendamentos\obj\Debug\net10.0\Agendamentos.genruntimeconfig.cache
+C:\Muriel\Projetos\DOTNETPROJ\Agendamentos\obj\Debug\net10.0\ref\Agendamentos.dll
